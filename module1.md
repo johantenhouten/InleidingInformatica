@@ -19,15 +19,15 @@ Een computer is dus een apparaat dat invoer verwerkt, een berekening of een besl
 - Met een computer kun je heel ingewikkeld dingen doen. Wat zou je met de computer wel kunnen, die je als mens niet kan of niet goed kan
 
 
-#Als de computer steeds slimmer wordt is dat dan gevaarlijk?
 
-[Eliza](http://psych.fullerton.edu/mbirnbaum/psych101/eliza.htm "Eliza, is het echt een mens of is het een computer programma")
-
-#Als de computer steeds slimmer wordt is dat dan gevaarlijk?
-[Sophia](https://www.youtube.com/watch?v=Sq36J9pNaEo "een robot die als burger is ingeschreven")
-
-#Is de maatschappij nog wel eerlijk?
+## Is de maatschappij nog wel eerlijk?
 - Wie goed begrijpt hoe een computer werkt heeft een voordeel boven iemand die het een computer niet begrijpt. Je kunt beter zoeken, zelf problemen oplossen (programmeren) en als iets niets werkt snap jij beter hoe waarom en wat je kunt doen. Is dat nog wel eerlijk? 
 
-#Als de computer steeds slimmer wordt, i dat dan niet gevaarlijk?
-- Zou een comouter de wereld kunnen overnemen? Zijn er dingen die je niet mag doen met een comnputer?
+## Als de computer steeds slimmer wordt..
+- speel eens met Eliza. Zij spreekt wel Engels, maar praat maar eens over scool. Wat denk je zit ier iemand achter het toetsenbord?
+[Eliza](http://psych.fullerton.edu/mbirnbaum/psych101/eliza.htm "Eliza, is het echt een mens of is het een computer programma")
+
+- Kijk eens naar deze vidoe
+[Sophia](https://www.youtube.com/watch?v=Sq36J9pNaEo "een robot die als burger is ingeschreven")
+
+## Zou een comouter de wereld kunnen overnemen? Zijn er dingen die je niet mag doen met een comnputer?
