@@ -30,10 +30,12 @@ Een computer is dus een apparaat dat invoer verwerkt, een berekening of een besl
 - Kijk nu eens naar deze video.. Wat denk je zit hier iemand achter het toetsenbord?
 [Sophia](https://www.youtube.com/watch?v=Sq36J9pNaEo "een robot die als burger is ingeschreven")
 
-## Zou een computer de wereld kunnen overnemen? Zijn er dingen die je niet mag doen met een comnputer?
 
-## Wat als een computer een fout maakt, wat gebeurt er dan?
+Bespreek in een klein groepje de volgende onderwerpen:
+### Zou een computer de wereld kunnen overnemen? Zijn er dingen die je niet zou mogen doen met een comnputer?
 
-## Wat als iemand een computer kan overnemen?
+### Wat als een computer een fout maakt, wat gebeurt er dan?
+
+### Wat als iemand een computer kan overneemt?
 
 
