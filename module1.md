@@ -21,6 +21,7 @@ Een computer is dus een apparaat dat invoer verwerkt, een berekening of een besl
 - Met een computer kun je heel ingewikkeld dingen doen. Wat zou je met de computer wel kunnen, die je als mens niet kan of niet goed kan
 
 
+![Afbeelding](http://www.awaken.com/wp-content/uploads/2016/06/4-Ways-Computer-Science-Is-Changing-Our-Society.jpg "De impact")
 
 ## Is de maatschappij nog wel eerlijk?
 - Wie goed begrijpt hoe een computer werkt heeft een voordeel boven iemand die het een computer niet begrijpt. Je kunt beter zoeken, zelf problemen oplossen (programmeren) en als iets niets werkt snap jij beter hoe waarom en wat je kunt doen. Is dat nog wel eerlijk? 
@@ -33,6 +34,7 @@ Een computer is dus een apparaat dat invoer verwerkt, een berekening of een besl
 [Sophia](https://www.youtube.com/watch?v=Sq36J9pNaEo "een robot die als burger is ingeschreven")
 
 
+![Afbeelding](https://5mt.michaelmilton.org/2020/06/Discussion-board-1024x512.jpg "Discussie")
 Bespreek in een klein groepje de volgende onderwerpen:
 ### Zou een computer de wereld kunnen overnemen? Zijn er dingen die je niet zou mogen doen met een comnputer?
 
