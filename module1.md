@@ -1,3 +1,5 @@
+![Afbeelding](https://2pwgqm3nczsg1a5kw72u2pcf-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/computer-system-upgrade.jpg "Een computer")
+
 # Eerste module: wat is een computer en hoe werkt ie
 
 In deze module (ongeveer 70 minuten, kijken we naar een aantal filmpjes en gaan ontdekken wat een compouter uit bestaat en wat je ermee kan) 
