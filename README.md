@@ -1,2 +1,5 @@
-# InleidingInformatica
+# Inleiding Informatica
 Materiaal voor Module Inleiding Informatica
+
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
