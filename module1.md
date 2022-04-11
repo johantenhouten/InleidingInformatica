@@ -12,7 +12,7 @@ Kijk naar de volgende 4 video's
 
 [Hoe werkt een computer, deel 3: Communiceren, van muis tot internet](https://www.youtube.com/watch?v=aztP3z1NhPM "Hoe werkt een computer, deel 3: Communiceren, van muis tot internet, een film van NEMO Kennislink")
 
-Een computer is dus een apparaat dat invoer verwerkt, een berekening of een beslissing kan maken en een uitvoer genereert.
+Een computer is dus een apparaat dat invoer verwerkt, een berekening of een beslissing kan maken en een uitvoer genereert. De berekening of beslissing wordt bepaald door een programma. 
 - Noem een aantal voorbeelden van een computer.
 - Wat is voor elk voorbeeld de invoer en de uitvoer
 - Waar wordt het programma (berekening en invoer) opgelsagen
@@ -24,10 +24,16 @@ Een computer is dus een apparaat dat invoer verwerkt, een berekening of een besl
 - Wie goed begrijpt hoe een computer werkt heeft een voordeel boven iemand die het een computer niet begrijpt. Je kunt beter zoeken, zelf problemen oplossen (programmeren) en als iets niets werkt snap jij beter hoe waarom en wat je kunt doen. Is dat nog wel eerlijk? 
 
 ## Als de computer steeds slimmer wordt..
-- speel eens met Eliza. Zij spreekt wel Engels, maar praat maar eens over scool. Wat denk je zit ier iemand achter het toetsenbord?
+- speel eens met Eliza. Zij spreekt wel Engels, zeg iets over jezelf of je familie. Wat denk je zit hier iemand achter het toetsenbord?
 [Eliza](http://psych.fullerton.edu/mbirnbaum/psych101/eliza.htm "Eliza, is het echt een mens of is het een computer programma")
 
-- Kijk eens naar deze vidoe
+- Kijk nu eens naar deze video.. Wat denk je zit hier iemand achter het toetsenbord?
 [Sophia](https://www.youtube.com/watch?v=Sq36J9pNaEo "een robot die als burger is ingeschreven")
 
-## Zou een comouter de wereld kunnen overnemen? Zijn er dingen die je niet mag doen met een comnputer?
+## Zou een computer de wereld kunnen overnemen? Zijn er dingen die je niet mag doen met een comnputer?
+
+## Wat als een computer een fout maakt, wat gebeurt er dan?
+
+## Wat als iemand een computer kan overnemen?
+
+
