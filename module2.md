@@ -12,10 +12,11 @@ Voor wie het niet meer weet of de eerste les gemist heeft. In de vorige module i
 Het antwoord ligt in wat een computer kan. Computers kunnen informatie verwerken. Die zin legt alles uit, maar is tegelijk heel cryptisch. Laten we de zin afpellen.
 
 1. Een computer kan ***informatie*** verwerken. Informatie komt van buiten de computer, dus er moet een of andere invoer zijn.
-2. Een computer kan ***informatie*** verwerken. Informatie moet dus beschikbaar zijn voor de computer, soms tijdleijk, soms voor lagenre tijd. Een computer heeft daaron geheugen nodig waar informatiue opgeslagen wordt.
-3. De computer kan informatie ***verwerken***. De kern van de computer bestaat uit een processor (het engelse woord voor verwerker) die verschillende dingen kan doen met informatie. De processor kan berekeningen doen, dep rocessor kan dingen herhalen en de processor kan beslissingen maken.
+2. Een computer kan ***informatie*** verwerken. Informatie moet dus beschikbaar zijn voor de computer, soms tijdelijk, soms voor langere tijd. Een computer heeft daarom geheugen nodig waar informatie opgeslagen wordt.
+3. De computer kan informatie ***verwerken***. De kern van de computer bestaat uit een processor (het Engelse woord voor verwerker) die verschillende dingen kan doen met informatie. De processor kan berekeningen doen, de processor kan dingen herhalen en de processor kan beslissingen maken.
 4. De computer kan informatie ***verwerken***. Het verwerken van informatie wordt gestuurd door een programma. Een programma vertelt de processor hoe informatie verwekt moet worden.
-5. De computer kan ***informatie verwerken***. Dat informatie verwerkt wordt is niiet voldoende. Je moet er ook iets mee doen. De informatie moet op een of andere wijze uitgevoerd worden.
+5. De computer kan ***informatie verwerken***. Dat informatie verwerkt wordt is niet voldoende. Je moet er ook iets mee doen. De informatie moet op een of andere wijze uitgevoerd of gedeeld worden. Als je niet direct iets wilt delen, kan je informatie ook weer opslaan.
+
 
 ![Afbeelding](https://raw.githubusercontent.com/johantenhouten/InleidingInformatica/main/elementencomputer.png "Componenten in een computer")
 
