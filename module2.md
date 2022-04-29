@@ -20,5 +20,52 @@ Het antwoord ligt in wat een computer kan. Computers kunnen informatie verwerken
 
 ![Afbeelding](https://raw.githubusercontent.com/johantenhouten/InleidingInformatica/main/elementencomputer.png "Componenten in een computer")
 
-Een computer bestaat uit een processor. Dat is 
+
+## Een computer in elkaar zetten
+Alle componenten van een computer zijn direct of indirect met het moederbord verbonden. Het moederbord is een [printplaat](https://nl.wikipedia.org/wiki/Printplaat). Het moederbord zorgt voro de verbinding tussen invoer, opslag (geheugen), processor en uitvoer.
+
+### Stap 1
+Sluit alleen het moederbord aan. Wat gebeurt er? Welke onderdelen van de computer werken er nu?
+
+### Stap 2
+Oké, oké, je ziet niets. Sluit een beeldscherm aan op de [VGA aansluiting](nl.wikipedia.org/wiki/Video_graphics_array). Wat zie je nu? Waarom is dat? Welke onderdelen van de computer werken er nu? 
+
+### Stap 3
+Waarschijnlijk zie je een foutmelding. Die foutmelding komt van het BIOS. [Basic Input Output System](https://nl.wikipedia.org/wiki/Basic_input/output_system). Dat is een klein stukje programmatuur die de computer helpt bij het verbinden met invoer, uitvoer, opslagen. De BIOS geeft ook een foutmelding. Sluit nu het draadloze toetsenbord aan op een USB poort.
+
+### Stap 4
+Nu doet de computer nog steeds niets. Waarom is dat? Een programma ontbreekt. Maar om een programma goed en makkelijk te laten werken is een [besturingssysteem](https://nl.wikipedia.org/wiki/Besturingssysteem) nodig. Een besturingssysteem zorgt voor de beveiliging, opslagen en verdeling van de componenten in een computer. Je wilt niet dat dat muis de harddisk vol schrijft of dat het toetsenbord met de speaker verbonden wordt. Het besturingssysteem is daarom de verkeersagent van een werkende computer. 
+
+### Stap 5
+Kijk eerst eens naar dit [filmpje](https://www.youtube.com/watch?v=DsF2ZlaXSh8). 
+Sluit de USB disk aan en herstart de computer. Kies tijdens het opstarten voor F9 en selecteer Boot from USB. Wat zie je nu? IS dit wat je verwacht? Waarom wel of waarom niet.
+
+### Stap 6
+Je hebt nu een werkende computer. Type maar eens in whoami. De computer verwerkt informatie. Invoer (van het toetsenbord) het woord "whoami", berekent wat de computer moet doen, haalt informatie op uit het geheugen en presenteert het op het scherm. De computer werkt!
+Maar wel een beetje saai.
+
+### Stap 7
+Laten we een spelletje spelen. Type ninvaders
+
+### Stap 8
+Nog steeds een beetje saai. type nu ***startx***. Wat gebeurt er? Is dit herkenbaar? Wat herken je wel en wat herken je niet. Dit is een Linux operating systeem. Die staat op een USB disk. 
+
+startx is het commando om een grafische programma op te starten. (Windows 10 is een ander voorbeeld van een grafisch programma). Dat programma stelt ons instaat om een andere programma (een spelletje, mail, netflix, spotify, chrome of wat dan ook) op te starten. We draaien dus software op software op software op hardware.
+
+### Stap 9
+Doe nu de harddisk aan de computer en start de computer opnieuw op. Dit lijkt mee op Windows zoals wij het kennen? Kun je inloggen? Nee. Laten we de computer hacken!
+
+### Stap 10
+Wat als je nu met de harddisk aangesloten naar Stap 6 gaat. Dus ook de USB disk aansluit (boot from usb disk) en dan stap 8. 
+Wat zie je nu? Kun je bij de hardddisk? Waarom zie je geen Windows, maar wel de bestanden?
+
+
+### Conclusie
+We hebben nu gedaan wat in dit filmpje staat (Filmpje)[https://www.youtube.com/watch?v=IpPotjWp_eM]
+We hebben de componenten van een computer ontdekt, we hebben de gezien hoe een computer opstart en dat het eigenlijk een programma in een programma in een programma is. We hebben ook gezien hoe je met een USB disk een computer kan hacken, omdat wij nu begrijpen hoe een coputer opstart.
+
+
+
+
+
 
