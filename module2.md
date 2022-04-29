@@ -61,8 +61,13 @@ Wat zie je nu? Kun je bij de hardddisk? Waarom zie je geen Windows, maar wel de 
 
 
 ### Conclusie
-We hebben nu gedaan wat in dit filmpje staat (Filmpje)[https://www.youtube.com/watch?v=IpPotjWp_eM]
-We hebben de componenten van een computer ontdekt, we hebben de gezien hoe een computer opstart en dat het eigenlijk een programma in een programma in een programma is. We hebben ook gezien hoe je met een USB disk een computer kan hacken, omdat wij nu begrijpen hoe een coputer opstart.
+- We hebben nu gedaan wat in dit filmpje staat [Filmpje](https://www.youtube.com/watch?v=IpPotjWp_eM)
+- We hebben de componenten van een computer ontdekt, 
+- we hebben de gezien hoe een computer opstart 
+- we hebben gezien een moderne computer eigenlijk een programma in een programma in een programma is. 
+- We hebben ook gezien hoe je met een USB disk een computer kan hacken, 
+-
+Omdat wij nu begrijpen hoe een computer werkt.
 
 
 
