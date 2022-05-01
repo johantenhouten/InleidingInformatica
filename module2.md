@@ -41,6 +41,15 @@ besturingssysteem.
 
 Welke componenten van een computer kun je herkennen? Bekijk de afbeelding goed.
 
+[Voorkant moederbord](https://github.com/johantenhouten/InleidingInformatica/blob/main/voorkant.png)
+[Achterkant moederbord](https://github.com/johantenhouten/InleidingInformatica/blob/main/ahterkant.png)
+
+![Afbeelding](https://raw.githubusercontent.com/johantenhouten/InleidingInformatica/main/elementencomputer.png "Componenten in een computer")
+
+Waar zit de invoer
+Waar zit het geheugen
+
+
 ### Stap 3
 Kijk eerst eens naar dit [filmpje](https://www.youtube.com/watch?v=DsF2ZlaXSh8). 
 
