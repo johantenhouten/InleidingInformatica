@@ -24,14 +24,15 @@ Het antwoord ligt in wat een computer kan. Computers kunnen informatie verwerken
 ## Een computer in elkaar zetten
 Alle componenten van een computer zijn direct of indirect met het moederbord verbonden. Het moederbord is een [printplaat](https://nl.wikipedia.org/wiki/Printplaat). Het moederbord zorgt voro de verbinding tussen invoer, opslag (geheugen), processor en uitvoer.
 
-### Stap 1
-Sluit alleen het moederbord aan. Wat gebeurt er? Welke onderdelen van de computer werken er nu?
 
-### Stap 2
-Oké, oké, je ziet niets. Sluit een beeldscherm aan op de [VGA aansluiting](nl.wikipedia.org/wiki/Video_graphics_array). Wat zie je nu? Waarom is dat? Welke onderdelen van de computer werken er nu? 
+
+### Stap 1
+Sluit een beeldscherm aan op de [VGA aansluiting](nl.wikipedia.org/wiki/Video_graphics_array). Sluit de voeding aan. En druk voorzichtig op de start-knop (verborgen). Wat gebeurt er? Waarom is dat? Welke onderdelen van de computer werken er nu? 
 
 ### Stap 3
-Waarschijnlijk zie je een foutmelding. Die foutmelding komt van het BIOS. [Basic Input Output System](https://nl.wikipedia.org/wiki/Basic_input/output_system). Dat is een klein stukje programmatuur die de computer helpt bij het verbinden met invoer, uitvoer, opslagen. De BIOS geeft ook een foutmelding. Sluit nu het draadloze toetsenbord aan op een USB poort.
+Waarschijnlijk zie je een foutmelding. Die foutmelding komt van het BIOS. [Basic Input Output System](https://nl.wikipedia.org/wiki/Basic_input/output_system). Dat is een klein stukje programmatuur die de computer helpt bij het verbinden met invoer, uitvoer, opslagen. De BIOS geeft ook een foutmelding. 
+
+Haal de stroom eraf en sluit nu het draadloze toetsenbord aan op een USB poort.
 
 ### Stap 4
 Nu doet de computer nog steeds niets. Waarom is dat? Een programma ontbreekt. Maar om een programma goed en makkelijk te laten werken is een [besturingssysteem](https://nl.wikipedia.org/wiki/Besturingssysteem) nodig. Een besturingssysteem zorgt voor de beveiliging, opslagen en verdeling van de componenten in een computer. Je wilt niet dat dat muis de harddisk vol schrijft of dat het toetsenbord met de speaker verbonden wordt. Het besturingssysteem is daarom de verkeersagent van een werkende computer. 
