@@ -36,37 +36,40 @@ Om een computer goed te laten werken is een [besturingssysteem](https://nl.wikip
 Een besturingssysteem zorgt voor de beveiliging, opslagen en verdeling van de componenten in een computer. Het besturingssysteem is daarom 
 de verkeersagent van een werkende computer. 
 
-Haal de stroom eraf en sluit nu het draadloze toetsenbord aan op een USB poort, sluit ook de USB disk aan op een USB poort. De USB disk bevat het
-besturingssysteem. 
+Haal de stroom eraf en sluit nu het draadloze toetsenbord aan op een USB poort, sluit ook de kleine USB disk aan op een USB poort. 
+De USB disk bevat het besturingssysteem. 
 
 Welke componenten van een computer kun je herkennen? Bekijk de afbeelding goed.
 
 ![Voorkant moederbord](https://raw.githubusercontent.com/johantenhouten/InleidingInformatica/main/voorkant.png "Voorkant moederbord" )
 ![Achterkant moederbord](https://raw.githubusercontent.com/johantenhouten/InleidingInformatica/main/achterkant.png "Achterkant moederbord" )
 
-Herken je invoer, opslag, uitvoer en processor?
+Herken je invoer, opslag, uitvoer en verwerking?
 
 ### Stap 3
 Kijk eerst eens naar dit [filmpje](https://www.youtube.com/watch?v=DsF2ZlaXSh8). 
 
+Sluit nu de stroom aan en druk weer voorzichtig op start en wacht gewoon.
 
 
-### Stap 6
-Je hebt nu een werkende computer. Type maar eens in whoami. De computer verwerkt informatie. Invoer (van het toetsenbord) het woord "whoami", berekent wat de computer moet doen, haalt informatie op uit het geheugen en presenteert het op het scherm. De computer werkt!
+### Stap 4
+Wat gebeurt er? Wat zie je op het scherm voorbij komen? 
+
+Je hebt nu een werkende computer. De computer verwerkt informatie. Invoer (van het toetsenbord) het woord "whoami", berekent wat de computer moet doen, haalt informatie op uit het geheugen en presenteert het op het scherm. De computer werkt!
 Maar wel een beetje saai.
 
-### Stap 7
-Laten we een spelletje spelen. Type ninvaders
+### Stap 5
+Laten we een spelletje spelen. Type ***ninvaders***
 
-### Stap 8
-Nog steeds een beetje saai. type nu ***startx***. Wat gebeurt er? Is dit herkenbaar? Wat herken je wel en wat herken je niet. Dit is een Linux operating systeem. Die staat op een USB disk. 
+### Stap 6
+Type nu ***startx***. Wat gebeurt er? Is dit herkenbaar? Wat herken je wel en wat herken je niet. Dit is een Linux operating systeem. Die staat op een USB disk. 
 
 startx is het commando om een grafische programma op te starten. (Windows 10 is een ander voorbeeld van een grafisch programma). Dat programma stelt ons instaat om een andere programma (een spelletje, mail, netflix, spotify, chrome of wat dan ook) op te starten. We draaien dus software op software op software op hardware.
 
-### Stap 9
+### Stap 7
 Doe nu de harddisk aan de computer en start de computer opnieuw op. Dit lijkt mee op Windows zoals wij het kennen? Kun je inloggen? Nee. Laten we de computer hacken!
 
-### Stap 10
+### Stap 8
 Wat als je nu met de harddisk aangesloten naar Stap 6 gaat. Dus ook de USB disk aansluit (boot from usb disk) en dan stap 8. 
 Wat zie je nu? Kun je bij de hardddisk? Waarom zie je geen Windows, maar wel de bestanden?
 
