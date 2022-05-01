@@ -17,9 +17,7 @@ Het antwoord ligt in wat een computer kan. Computers kunnen informatie verwerken
 4. De computer kan informatie ***verwerken***. Het verwerken van informatie wordt gestuurd door een programma. Een programma vertelt de processor hoe informatie verwekt moet worden.
 5. De computer kan ***informatie verwerken***. Dat informatie verwerkt wordt is niet voldoende. Je moet er ook iets mee doen. De informatie moet op een of andere wijze uitgevoerd of gedeeld worden. Als je niet direct iets wilt delen, kan je informatie ook weer opslaan.
 
-
 ![Afbeelding](https://raw.githubusercontent.com/johantenhouten/InleidingInformatica/main/elementencomputer.png "Componenten in een computer")
-
 
 ## Een computer in elkaar zetten
 Alle componenten van een computer zijn direct of indirect met het moederbord verbonden. Het moederbord is een [printplaat](https://nl.wikipedia.org/wiki/Printplaat). Het moederbord zorgt voro de verbinding tussen invoer, opslag (geheugen), processor en uitvoer.
@@ -27,19 +25,26 @@ Alle componenten van een computer zijn direct of indirect met het moederbord ver
 
 
 ### Stap 1
-Sluit een beeldscherm aan op de [VGA aansluiting](nl.wikipedia.org/wiki/Video_graphics_array). Sluit de voeding aan. En druk voorzichtig op de start-knop (verborgen). Wat gebeurt er? Waarom is dat? Welke onderdelen van de computer werken er nu? 
+Sluit een beeldscherm aan op de [VGA aansluiting](nl.wikipedia.org/wiki/Video_graphics_array). Sluit de voeding aan. En druk voorzichtig op de start-knop. (verborgen). Wat gebeurt er? Waarom is dat? Welke onderdelen van de computer werken er nu? 
+
+### Stap 2
+Waarschijnlijk zie je een foutmelding. ***No bootable device insert bootdisk en press any key*** Die foutmelding komt van het BIOS. 
+[Basic Input Output System](https://nl.wikipedia.org/wiki/Basic_input/output_system). Dat is een klein stukje programmatuur die de computer 
+helpt bij het verbinden met invoer, uitvoer, opslagen. De BIOS geeft ook een foutmelding. 
+
+Om een computer goed te laten werken is een [besturingssysteem](https://nl.wikipedia.org/wiki/Besturingssysteem) nodig. 
+Een besturingssysteem zorgt voor de beveiliging, opslagen en verdeling van de componenten in een computer. Het besturingssysteem is daarom 
+de verkeersagent van een werkende computer. 
+
+Haal de stroom eraf en sluit nu het draadloze toetsenbord aan op een USB poort, sluit ook de USB disk aan op een USB poort. De USB disk bevat het
+besturingssysteem. 
+
+Welke componenten van een computer kun je herkennen? Bekijk de afbeelding goed.
 
 ### Stap 3
-Waarschijnlijk zie je een foutmelding. Die foutmelding komt van het BIOS. [Basic Input Output System](https://nl.wikipedia.org/wiki/Basic_input/output_system). Dat is een klein stukje programmatuur die de computer helpt bij het verbinden met invoer, uitvoer, opslagen. De BIOS geeft ook een foutmelding. 
-
-Haal de stroom eraf en sluit nu het draadloze toetsenbord aan op een USB poort.
-
-### Stap 4
-Nu doet de computer nog steeds niets. Waarom is dat? Een programma ontbreekt. Maar om een programma goed en makkelijk te laten werken is een [besturingssysteem](https://nl.wikipedia.org/wiki/Besturingssysteem) nodig. Een besturingssysteem zorgt voor de beveiliging, opslagen en verdeling van de componenten in een computer. Je wilt niet dat dat muis de harddisk vol schrijft of dat het toetsenbord met de speaker verbonden wordt. Het besturingssysteem is daarom de verkeersagent van een werkende computer. 
-
-### Stap 5
 Kijk eerst eens naar dit [filmpje](https://www.youtube.com/watch?v=DsF2ZlaXSh8). 
-Sluit de USB disk aan en herstart de computer. Kies tijdens het opstarten voor F9 en selecteer Boot from USB. Wat zie je nu? IS dit wat je verwacht? Waarom wel of waarom niet.
+
+
 
 ### Stap 6
 Je hebt nu een werkende computer. Type maar eens in whoami. De computer verwerkt informatie. Invoer (van het toetsenbord) het woord "whoami", berekent wat de computer moet doen, haalt informatie op uit het geheugen en presenteert het op het scherm. De computer werkt!
