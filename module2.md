@@ -3,7 +3,7 @@
 In deze module (ongeveer 70 minuten),gaan we ontdekken waar een computer uit bestaat en wat je ermee kan.
 
 # Samevatting module 1
-Voor wie het niet meer weet of de eerste les gemist heeft. In de vorige module is kort besproken uit welke componenten een computer bestaat en hoe informatie wordt opgeslagen. Wie nog een opfrisser wil doen kijk naar het eerste filmpje.
+Voor wie het niet meer weet of de eerste les gemist heeft: in de vorige module is kort besproken uit welke componenten een computer bestaat en hoe informatie wordt opgeslagen. Wie nog een opfrisser wil doen kijk naar het eerste filmpje.
 
 
 # Tweede module: een duik in de computer
