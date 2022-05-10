@@ -1,4 +1,4 @@
-![Webpagina](https://assets.digitalocean.com/django_gunicorn_nginx_2004/articles/new_learners/section-1.png "Webpagina")
+![Webpagina](https://cmd.camp/wp-content/uploads/2020/04/Screenshot-2018-11-07-at-10.59.37.png)
 
 In deze module (ongeveer 70 minuten),gaan we ontdekken hoe je een webpagina maakt
 
