@@ -1,4 +1,4 @@
-![Afbeelding](https://2pwgqm3nczsg1a5kw72u2pcf-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/computer-system-upgrade.jpg "Een computer")
+![Webpagina](https://assets.digitalocean.com/django_gunicorn_nginx_2004/articles/new_learners/section-1.png "Webpagina")
 
 In deze module (ongeveer 70 minuten),gaan we ontdekken hoe je een webpagina maakt
 
