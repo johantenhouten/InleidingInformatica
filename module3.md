@@ -10,7 +10,7 @@ Als je die informatie bekijkt met een browser dan zie je een webpagina.
 Webpaginas worden opgemaakt in HTML. ***H***yper***T***ext ***M***arkup ***L***anguage. HTML is eignelijk een gewoon tekst bestand, maar dan met extra aanduidiing voor opmaak, afbeeldingen en links.
 
 
-
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -23,5 +23,5 @@ Webpaginas worden opgemaakt in HTML. ***H***yper***T***ext ***M***arkup ***L***a
 
 </body>
 </html> 
-
+```
 
