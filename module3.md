@@ -2,12 +2,15 @@
 
 In deze module (ongeveer 70 minuten),gaan we ontdekken hoe je een webpagina maakt
 
-In de eerste module is gesproken over informatie. Dit is binair opgeslgen (alleen 0 en 1). De context bepaalt hoe die bits toegespast worden. 
-Soms betekenen die bits een getal en soms een stukje tekst of een afbeelding. In deze module gaan we informatie in een bepaalde manier opmaken.
-Als je die informatie bekijkt met een browser dan zie je een webpagina.
+In de eerste module is gesproken over informatie. In een computer wordt informatie binair opgeslgen (dus alleen een 0 of een en 1). De ***context*** bepaalt hoe die bits weergegeven worden. Soms zijn de bits een deel van een video, soms is het een deel van een tekstbericht en soms betekenen die bits een stipje op een foto. De context kan worden bepaald door het programma dat je gebruikt of de context wordt bepaald door het bestand waarin je iets opslaat. In deze module maken we een bestand met een bepaalde opmaak. Als we dat bestand opslaan met de extensie .HTML zal Windows het bestand herkennen als een webpagina. 
 
-### Een webpagina maken. 
+
+### Een webpagina 
 Webpaginas worden opgemaakt in HTML. ***H***yper***T***ext ***M***arkup ***L***anguage. HTML is eignelijk een gewoon tekst bestand, maar dan met extra aanduidiing voor opmaak, afbeeldingen en links.
+
+### Opmaak
+
+
 
 
 ```html
