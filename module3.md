@@ -8,26 +8,28 @@ In de eerste module is gesproken over informatie. In een computer wordt informat
 ### Een webpagina 
 Webpaginas worden opgemaakt in HTML. ***H***yper***T***ext ***M***arkup ***L***anguage. HTML is eignelijk een gewoon tekst bestand, maar dan met extra aanduidiing voor opmaak, afbeeldingen en links. HTML is ook een set van afspraken, als je aan die afspraken houdt kan elke browser dat bestand kunnen weergeven.
 
-De aanduidingen worden aangegeven met een woord tussen een < en > teken. Zo betekents <small> dat de tekst voor taan kleiner is. Het einde wordt aangegeven met </small>, let op het / teken. In HTML 
-
+De aanduidingen worden aangegeven met een woord tussen een < en > teken. Zo betekents <small> dat de tekst voor taan kleiner is. Het einde wordt aangegeven met </small>, let op het / teken. 
 
 ### Standaard opmaak
-
-
-
-
+Een standaard webpagina bestaat uit verschillende secties, ook aangeduid met een < >. In het voorbeeld hieronder zie je duidleijk de sectie html (het is een html document), maar ook de <head> wat zoietsb etekent als kop, en een sectie <body> waar de eingleijk inhoud in staat.
+  
 ```html
 <!DOCTYPE html>
 <html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
+  <head>
+    <title>Pagina Titel</title>
+  </head>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+  <body>
 
-</body>
+  </body>
+
 </html> 
 ```
+Wie meer wil weten kan terecht bij [W3Schools.com](https://www.w3schools.com/html/default.asp)
+  
+  
+Oefening 1  
+  
+  
 
