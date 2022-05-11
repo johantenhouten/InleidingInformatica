@@ -6,9 +6,12 @@ In de eerste module is gesproken over informatie. In een computer wordt informat
 
 
 ### Een webpagina 
-Webpaginas worden opgemaakt in HTML. ***H***yper***T***ext ***M***arkup ***L***anguage. HTML is eignelijk een gewoon tekst bestand, maar dan met extra aanduidiing voor opmaak, afbeeldingen en links.
+Webpaginas worden opgemaakt in HTML. ***H***yper***T***ext ***M***arkup ***L***anguage. HTML is eignelijk een gewoon tekst bestand, maar dan met extra aanduidiing voor opmaak, afbeeldingen en links. HTML is ook een set van afspraken, als je aan die afspraken houdt kan elke browser dat bestand kunnen weergeven.
 
-### Opmaak
+De aanduidingen worden aangegeven met een woord tussen een < en > teken. Zo betekents <small> dat de tekst voor taan kleiner is. Het einde wordt aangegeven met </small>, let op het / teken. In HTML 
+
+
+### Standaard opmaak
 
 
 
