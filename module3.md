@@ -11,7 +11,7 @@ Webpaginas worden opgemaakt in HTML. ***H***yper***T***ext ***M***arkup ***L***a
 De aanduidingen worden aangegeven met een woord tussen een < en > teken. Zo betekents <small> dat de tekst voor taan kleiner is. Het einde wordt aangegeven met </small>, let op het / teken. 
 
 ### Standaard opmaak
-Een standaard webpagina bestaat uit verschillende secties, ook aangeduid met een < >. In het voorbeeld hieronder zie je duidleijk de sectie html (het is een html document), maar ook de <head> wat zoietsb etekent als kop, en een sectie <body> waar de eingleijk inhoud in staat.
+Een standaard webpagina bestaat uit verschillende secties, ook aangeduid met een < >. De woorden tussen < en > worden TAGs genoemd. In het voorbeeld hieronder zie je duidleijk de sectie html (het is een html document) aangegeven met de tag <HTML>, maar ook de <head> wat zoiets betekent als kop, en een sectie <body> waar de eigenlijke inhoud in staat.
   
 ```html
 <!DOCTYPE html>
@@ -29,7 +29,10 @@ Een standaard webpagina bestaat uit verschillende secties, ook aangeduid met een
 Wie meer wil weten kan terecht bij [W3Schools.com](https://www.w3schools.com/html/default.asp)
   
   
-Oefening 1  
+### Opdracht 1
+Start op je Notepad.exe [Video](https://www.youtube.com/watch?v=RgL4mq53IAc) in Windows en kopieer de inhoud van standaardopmaak in een nieuw leeg bestand. Sla het bestand op als opdracht1.html. Tip:  bij het opslaan kies voor [Video](https://www.youtube.com/watch?v=xqMKHHj6cdQ)
+  
+  
   
   
 
