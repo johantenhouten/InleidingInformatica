@@ -44,8 +44,9 @@ Om de Webpagina complete te maken kun je expertimenteren met de TAGS `<H1>`, `<H
  Probeer maar eens in je HTML pagina onder of bove de regel met `<H1>` een afbeelding toe te voegen.
 
 ```html
-<img src="pic_trulli.jpg" alt="Italian Trulli">
+<img src="https://github.com/johantenhouten/InleidingInformatica/blob/main/media/fcxx.png?raw=true" alt="FC-XX">
 ```
+ 
   
   https://www.w3schools.com/html/tryit.asp?filename=tryhtml_images_background7
 
