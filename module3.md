@@ -37,8 +37,13 @@ Om de Webpagina complete te maken kun je expertimenteren met de TAGS `<H1>`, `<H
 
 `<BR>` voegt een nieuwe regel toe en `<HR>` zet een horizontale streep.
  
- 
+ [Hier](https://www.w3schools.com/html/html_colors.asp) wordt uitgelegd hoe je bijvoorbeeld kleur kan toevoegen aan je webpagina.
   
+ [Hier](https://www.w3schools.com/html/html_images_background.asp) wordt uitgelegd hoe je een afbeelding als achtergrond kan toevoegen.
   
+ Probeer maar eens in je HTML pagina de regel 23 te vervangen door deze regel
+
+<body style="background-image: url('https://huzzaz.com/procoverphotos/live-football.jpg?1606916770');">
+
   
 
