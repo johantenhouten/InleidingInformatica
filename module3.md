@@ -30,7 +30,7 @@ Wie meer wil weten kan terecht bij [W3Schools.com](https://www.w3schools.com/htm
   
   
 ### Opdracht 1
-Start op je Notepad.exe [Video](https://www.youtube.com/watch?v=RgL4mq53IAc) in Windows en kopieer de inhoud van standaardopmaak in een nieuw leeg bestand. Sla het bestand op als opdracht1.html. Tip:  bij het opslaan kies voor [Video](https://www.youtube.com/watch?v=xqMKHHj6cdQ)
+Start op je Notepad.exe [Video](https://www.youtube.com/watch?v=RgL4mq53IAc) in Windows en kopieer de inhoud van standaardopmaak in een nieuw leeg bestand. Sla het bestand op als opdracht1.html. Tip:  bij het opslaan kies voor de optie "Alle bestanden" ![Afbeelding](https://github.com/johantenhouten/InleidingInformatica/blob/main/media/opslaanals.png?raw=true)  [Video](https://www.youtube.com/watch?v=xqMKHHj6cdQ)
   
   
   
