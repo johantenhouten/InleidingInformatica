@@ -47,6 +47,6 @@ Om de Webpagina complete te maken kun je expertimenteren met de TAGS `<H1>`, `<H
 <img src="https://github.com/johantenhouten/InleidingInformatica/blob/main/media/fcxx.png?raw=true" alt="FC-XX">
 ```
  
+[Hier](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_images_background7) is een vooorbeeld hoe je een afbeelding als achtergrdon kan toevoegen.
   
-  https://www.w3schools.com/html/tryit.asp?filename=tryhtml_images_background7
-
+Maak je eigen webpagina. Houd het simpel, voeg als je wilt een afbeelding toe. Let wel op dat je dan een link opneemt naar een afbeelding op internet (als je een afbeelding ziet, rechtermuisknop copy Image Link)
