@@ -50,3 +50,17 @@ Om de Webpagina compleet te maken kun je expertimenteren met de TAGS `<H1>`, `<H
 [Hier](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_images_background7) is een vooorbeeld hoe je een afbeelding als achtergrdon kan toevoegen.
   
 Maak je eigen webpagina. Houd het simpel, voeg als je wilt een afbeelding toe. Let wel op dat je dan een link opneemt naar een afbeelding op internet (als je een afbeelding ziet, rechtermuisknop copy Image Link)
+
+
+### Opdracht 2
+Heb je je eigen webpagina geopend in je browser? 
+
+Rechts klik op de webpagina en selecteer "view page source"  of "bron pagina bekijken". De exacte omschrinving kan verschillen - afhankelijk van taal en type browser (FriwFox, Chrome, Edge, Safari). Herken je je eigen broncode?
+
+
+
+Laten we het een stap verder nemen.
+- In Chrome, Firefox, of Safari: rechts-klik op een webpagina en selecteer ***Inspect***.
+- In Internet Explorer of Edge, rechts-klik op een webpagina en selecteer ***Inspect Element***.
+
+
