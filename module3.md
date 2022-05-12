@@ -8,10 +8,10 @@ In de eerste module is gesproken over informatie. In een computer wordt informat
 ### Een webpagina 
 Webpaginas worden opgemaakt in HTML. ***H***yper***T***ext ***M***arkup ***L***anguage. HTML is eignelijk een gewoon tekst bestand, maar dan met extra aanduidiing voor opmaak, afbeeldingen en links. HTML is ook een set van afspraken, als je aan die afspraken houdt kan elke browser dat bestand kunnen weergeven.
 
-De aanduidingen worden aangegeven met een woord tussen een < en > teken. Zo betekents <small> dat de tekst voor taan kleiner is. Het einde wordt aangegeven met </small>, let op het / teken. 
+De aanduidingen worden aangegeven met een woord tussen een < en > teken. Zo betekents `<small>` dat de tekst voor taan kleiner is. Het einde wordt aangegeven met `</small>`, let op het `/` teken. 
 
 ### Standaard opmaak
-Een standaard webpagina bestaat uit verschillende secties, ook aangeduid met een < >. De woorden tussen < en > worden TAGs genoemd. In het voorbeeld hieronder zie je duidleijk de sectie html (het is een html document) aangegeven met de tag <HTML>, maar ook de <head> wat zoiets betekent als kop, en een sectie <body> waar de eigenlijke inhoud in staat.
+Een standaard webpagina bestaat uit verschillende secties, ook aangeduid met een `<TAG>`. De woorden tussen `<` en `>` worden TAGs genoemd. In het voorbeeld hieronder zie je duidleijk de sectie html (het is ook een html document) aangegeven met de tag `<HTML>`, maar ook de `<HEAD>` wat zoiets betekent als kop, en een sectie `<BODY>` waar de eigenlijke inhoud in staat. Hoofdletters zijn niet belangrijk voor TAGS. 
   
 ```html
 <!DOCTYPE html>
@@ -31,9 +31,9 @@ Wie meer wil weten kan terecht bij [W3Schools.com](https://www.w3schools.com/htm
   
   
 ### Opdracht 1
-Start op je Notepad.exe [(kijk deze Video als je niet weet hoe)](https://www.youtube.com/watch?v=RgL4mq53IAc) in Windows en kopieer de inhoud van standaardopmaak hierboven in een nieuw leeg bestand. Sla het bestand op als opdracht1.html. Tip: bij het opslaan kies voor de optie [Alle bestanden (`*.*`)](https://github.com/johantenhouten/InleidingInformatica/blob/main/media/opslaanals.png?raw=true) of bekijke deze [Video](https://www.youtube.com/watch?v=xqMKHHj6cdQ). Open het document daarna door vanuit de Verkenner er op te kkikken. Als het goed is zie je aan de icon dat het een webpagina is en als het nog beter is zie je een webpagina met tekst.
+Start Notepad.exe [(kijk deze Video als je niet weet hoe)](https://www.youtube.com/watch?v=RgL4mq53IAc) in Windows en kopieer de inhoud van standaardopmaak hierboven in een nieuw leeg bestand. Sla het bestand op als opdracht1.html. Tip: bij het opslaan kies voor de optie [Alle bestanden (`*.*`)](https://github.com/johantenhouten/InleidingInformatica/blob/main/media/opslaanals.png?raw=true) of bekijke deze [Video](https://www.youtube.com/watch?v=xqMKHHj6cdQ). Open het document daarna door vanuit de Verkenner er op te kkikken. Als het goed is zie je aan de icon dat het een webpagina is en als het nog beter is zie je een webpagina met tekst.
  
-Om de Webpagina complete te maken kun je expertimenteren met de TAGS `<H1>`, `<H2>`, `<H3>`, `<strong>`. Dat zal de opmaak van een stukje tekst aanpassen.
+Om de Webpagina compleet te maken kun je expertimenteren met de TAGS `<H1>`, `<H2>`, `<H3>`, `<strong>`. Dat zal de opmaak van een stukje tekst aanpassen.
 
 `<BR>` voegt een nieuwe regel toe en `<HR>` zet een horizontale streep.
  
