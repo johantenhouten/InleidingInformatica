@@ -17,12 +17,12 @@ Een standaard webpagina bestaat uit verschillende secties, ook aangeduid met een
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Pagina Titel</title>
+    <title>FC-xx</title>
   </head>
 
   <body>
-    <h1>Mijn voetbal club</h1>
-    <p>De allerbeste voetbal club in de wereld is</p>
+    <h1>Mijn voetbal club FC-xx</h1>
+    <p>De allerbeste voetbal club in de wereld is FC-xx</p>
   </body>
 
 </html> 
