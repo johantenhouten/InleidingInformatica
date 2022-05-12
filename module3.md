@@ -58,7 +58,7 @@ Heb je je eigen webpagina geopend in je browser?
 Rechts klik op de webpagina en selecteer "view page source"  of "bron pagina bekijken". De exacte omschrijving kan verschillen - afhankelijk van taal en type browser (Firefox, Chrome, Edge, Safari). Herken je je eigen broncode? Je kan op deze manier zien waar de afbeelding vandaan komt (en opslaan op je eigen computer mocht je dat willen). Soms heb je dit nodig om te begrijpen hoe een webpagina werkt.
 
 ### Opdracht 3 
-De webpagina is saai en komt niet verder dan mijn pony of mijn voetbal club. Een beetje goede opmaak vergt met het zelf schrijven heel veel tijd. Een goede oplossing is het gebruik van een Framework. Hierin zijn heel veel stijlen vooraf gedefinieerd. Ze zijn gratis te gebruiken.
+De webpagina is saai en komt niet verder dan mijn pony of mijn voetbal club. Een beetje goede opmaak vergt met het zelf schrijven heel veel tijd. Een goede oplossing is het gebruik van een Framework. Hierin zijn heel veel stijlen vooraf gedefinieerd. Ze zijn gratis te gebruiken. Mijn persoonlijke favoriet is Bootstrap. [Hier]() kan je meer leren
 
 Probeer eens onderstaande code
 
