@@ -55,8 +55,45 @@ Maak je eigen webpagina. Houd het simpel, voeg als je wilt een afbeelding toe. L
 ### Opdracht 2
 Heb je je eigen webpagina geopend in je browser? 
 
-Rechts klik op de webpagina en selecteer "view page source"  of "bron pagina bekijken". De exacte omschrijving kan verschillen - afhankelijk van taal en type browser (FriwFox, Chrome, Edge, Safari). Herken je je eigen broncode? Je kan op deze manier zien waar de afbeelding vandaan komt (en opslaan op je eigen computer mocht je dat willen).
+Rechts klik op de webpagina en selecteer "view page source"  of "bron pagina bekijken". De exacte omschrijving kan verschillen - afhankelijk van taal en type browser (Firefox, Chrome, Edge, Safari). Herken je je eigen broncode? Je kan op deze manier zien waar de afbeelding vandaan komt (en opslaan op je eigen computer mocht je dat willen). Soms heb je dit nodig om te begrijpen hoe een webpagina werkt.
 
+### Opdracht 3 
+De webpagina is saai en komt niet verder dan mijn pony of mijn voetbal club. Een beetje goede opmaak vergt met het zelf schrijven heel veel tijd. Een goede oplossing is het gebruik van een Framework. Hierin zijn heel veel stijlen vooraf gedefinieerd. Ze zijn gratis te gebruiken.
+
+Probeer eens onderstaande code
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>FC-xx</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+  </head>
+  
+  
+  <body>
+  <div class="container-fluid p-5 bg-primary text-white text-center">
+    <img src="https://github.com/johantenhouten/InleidingInformatica/blob/main/media/fcxx.png?raw=true" alt="FC-XX">
+  </div>
+  
+  <div class="container mt-5">
+    <div class="row">
+      <div class="col-sm-4">
+        <h1>FC-xx</h1>
+          <p>De allerbeste voetbal club in de wereld is FC-xx</p>
+      </div>
+    </div>
+  </div>
+
+  
+  
+  </body>
+
+</html> 
+```
 
 
 Laten we het een stap verder nemen.
