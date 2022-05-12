@@ -43,7 +43,8 @@ Om de Webpagina complete te maken kun je expertimenteren met de TAGS `<H1>`, `<H
   
  Probeer maar eens in je HTML pagina de regel 23 te vervangen door deze regel
 
+```html
 <body style="background-image: url('https://huzzaz.com/procoverphotos/live-football.jpg?1606916770');">
-
+```
   
 
