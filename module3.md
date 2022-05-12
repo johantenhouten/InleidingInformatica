@@ -41,7 +41,7 @@ Om de Webpagina complete te maken kun je expertimenteren met de TAGS `<H1>`, `<H
   
  [Hier](https://www.w3schools.com/html/html_images_background.asp) wordt uitgelegd hoe je een afbeelding als achtergrond kan toevoegen.
   
- Probeer maar eens in je HTML pagina de regel 23 te vervangen door deze regel
+ Probeer maar eens in je HTML pagina de regel met alleen `<body>` te vervangen door deze regel:
 
 ```html
 <body style="background-image: url('https://huzzaz.com/procoverphotos/live-football.jpg?1606916770');">
