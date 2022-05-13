@@ -104,7 +104,7 @@ Bekijk de broncode van de webpagina.
 Tip: [online zijn er heel veel bootstrap editors die je helpen met het bouwen van een website.](https://bootstrap.build/app)
 
 ### Opdracht 4 toevoegen van extra functionaleiteien
-Een webpagina kan ook programma regels bevatten. Dat wordt JavaScript genoemd. In het [voorbeeld](https://www.bootstrapdash.com/demo/majestic-free/template/index.html) ie je dat er in de laaste regels 
+Een webpagina kan ook programma regels bevatten. Dat wordt JavaScript genoemd. In het [voorbeeld](https://www.bootstrapdash.com/demo/majestic-free/template/index.html) zie je dat er in de laaste regels (je weet wel: rechter muis knop bron code).
 
 ```html
 
@@ -130,5 +130,7 @@ Een webpagina kan ook programma regels bevatten. Dat wordt JavaScript genoemd. I
 
   <script src="js/jquery.cookie.js" type="text/javascript"></script>
 ```
-Dit zijn bibliotheken (stukjes programma code) die extra functionaliteit toevoegen aan de website. Deze kunnen worden gebruikt voor automatisch opmaak of voor het maken van tabellen en die op een aantrekklijke manier laten openen.
+
+De TAG `<SCRIPT>` geeft aan dat een externe bibliotheek geladen moet worden. Bibliotheken zijn stukjes programma code die extra functionaliteit toevoegen aan de website. Deze kunnen worden gebruikt voor automatisch opmaak of voor het maken van tabellen en die op een aantrekklijke manier laten openen.
+
 
