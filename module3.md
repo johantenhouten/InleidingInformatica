@@ -58,10 +58,12 @@ Om jouw persoonlijke webpagina compleet (anders?) te maken kun je bijvoorbeeld e
 ### Opdracht 2 (max 5 minuten)
 Open de [statische website](https://miradehond.w3spaces.com/index.html "miredehond").
 
-Rechts klik op de webpagina (niet op de foto) en selecteer "view page source"  of "bron pagina bekijken". De exacte omschrijving kan verschillen - afhankelijk van taal en type browser (Firefox, Chrome, Edge, Safari). Herken je de HTML broncode? Je kan op deze manier zien waar de afbeelding vandaan komt (en opslaan op je eigen computer mocht je dat willen). Soms heb je dit nodig om te begrijpen hoe een webpagina werkt.
+Rechts klik op de webpagina (niet op de foto) en selecteer "view page source"  of "pagina bron bekijken". De exacte omschrijving kan verschillen - afhankelijk van taal en type browser (Firefox, Chrome, Edge, Safari). Herken je de HTML broncode? Je kan op deze manier zien waar de afbeelding vandaan komt (en opslaan op je eigen computer mocht je dat willen). Soms heb je dit nodig om te begrijpen hoe een webpagina werkt of om fouten op te sporen. 
+
+Wanneer je kies voor "Inspect" of "Inspecteren", kun je zelfs de pagina live aanpassen.
 
 ### Opdracht 3 
-De statische webpagina is saai en komt niet verder dan “mijn pony” of “mijn voetbal club”. Het maken van een beetje goede opmaak kost veel tijd. Een oplossing is het gebruik van een Framework. Hierin zijn heel veel stijlen vooraf gedefinieerd. Ze zijn gratis te gebruiken. Mijn persoonlijke favoriet is Bootstrap. [Hier](https://www.w3schools.com/bootstrap5/index.php) kan je meer leren
+De statische webpagina zoalsin opdracht 1 is saai en komt niet verder dan “mijn pony” of “mijn voetbal club”. Het maken van een website met een beetje goede opmaak kost enorm veel tijd. Een oplossing is het gebruik van een Framework (raamwerk). In een raamwerk zijn stijlen vooraf gedefinieerd. Je hoeft ze er alleen naar te verwijzen. Veel framworks zijn gratis te gebruiken. Mijn persoonlijke favoriet is Bootstrap. [Hier](https://www.w3schools.com/bootstrap5/index.php) kan je meer leren.
 
 Kopieer onderstaande code en sla op als opdracht2.html
 
@@ -132,5 +134,11 @@ Een webpagina kan ook programma regels bevatten. Dat wordt JavaScript genoemd. I
 ```
 
 De TAG `<SCRIPT>` geeft aan dat een externe bibliotheek geladen moet worden. In het voorbeeld staan die bibliotheken lokaal op de webserver die ons de pagina geeft. Soms staat er een volledig pad naar een website. Bibliotheken zijn stukjes programma code die extra functionaliteit toevoegen aan de website. Deze kunnen worden gebruikt voor automatisch opmaak of voor het maken van tabellen en die op een aantrekklijke manier laten openen.
+
+
+Probeer [eens deze pagina](https://codeincomplete.com/games/racer/)
+
+Wie kan de snelste tijd halen?
+
 
 
