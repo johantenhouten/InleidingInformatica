@@ -135,10 +135,14 @@ Een webpagina kan ook programma regels bevatten. Dat wordt JavaScript genoemd. I
 
 De TAG `<SCRIPT>` geeft aan dat een externe bibliotheek geladen moet worden. In het voorbeeld staan die bibliotheken lokaal op de webserver die ons de pagina geeft. Soms staat er een volledig pad naar een website. Bibliotheken zijn stukjes programma code die extra functionaliteit toevoegen aan de website. Deze kunnen worden gebruikt voor automatisch opmaak of voor het maken van tabellen en die op een aantrekklijke manier laten openen.
 
+Bekijk de volgende [website](http://bl.ocks.org/jhb/raw/5955887). Kun je de code zien?
+
+### Opdracht 5
 
 Probeer [eens deze pagina](https://codeincomplete.com/games/racer/)
 
 Wie kan de snelste tijd halen?
 
+### Opdracht 6
 
 
