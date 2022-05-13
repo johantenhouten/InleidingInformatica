@@ -10,7 +10,7 @@ Webpagina's worden opgemaakt in HTML. ***H***yper***T***ext ***M***arkup ***L***
 Webpagina's worden gebruikt om informatie te geven (mijn winkel, de speeltiun, informatie van de gemeente, wanneer komt de bus). Die informatie is redelijk statisch, wat betekent dat de inhoud niet veel veranderd. Hier is [een voorbeeld van een statische pagina](https://miradehond.w3spaces.com/index.html "miredehond" {:target="_blank"})
 
 <a href="http://example.com/" target="_blank">Hello, world!</a>
-
+[link](URL){:target='_blank'}
 
 Veel belangrijker is de functie van een interactieve webpagina. Denk bij interactief aan online bestellen (bol.com, zalando, wehkamp), social media, online boekhouden, video kijken, muziek luisteren of gamen. Met een interactieve pagina kun je geld verdienen. Bijvoorbeeld door het vragen van een abonnement of door het verkopen van advertenties. Voor een interactieve pagina heb je dan ook een computer nodig die de verwerking van informatie doet (een webserver). In deze module kijken we alleen naar de voorkant.
 
