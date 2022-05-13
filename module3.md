@@ -58,7 +58,7 @@ Om jouw persoonlijke webpagina compleet (anders?) te maken kun je bijvoorbeeld e
 ### Opdracht 2 (max 5 minuten)
 Open de [statische website](https://miradehond.w3spaces.com/index.html "miredehond").
 
-Rechts klik op de webpagina en selecteer "view page source"  of "bron pagina bekijken". De exacte omschrijving kan verschillen - afhankelijk van taal en type browser (Firefox, Chrome, Edge, Safari). Herken je de HTML broncode? Je kan op deze manier zien waar de afbeelding vandaan komt (en opslaan op je eigen computer mocht je dat willen). Soms heb je dit nodig om te begrijpen hoe een webpagina werkt.
+Rechts klik op de webpagina (niet op de foto) en selecteer "view page source"  of "bron pagina bekijken". De exacte omschrijving kan verschillen - afhankelijk van taal en type browser (Firefox, Chrome, Edge, Safari). Herken je de HTML broncode? Je kan op deze manier zien waar de afbeelding vandaan komt (en opslaan op je eigen computer mocht je dat willen). Soms heb je dit nodig om te begrijpen hoe een webpagina werkt.
 
 ### Opdracht 3 
 De statische webpagina is saai en komt niet verder dan “mijn pony” of “mijn voetbal club”. Het maken van een beetje goede opmaak kost veel tijd. Een oplossing is het gebruik van een Framework. Hierin zijn heel veel stijlen vooraf gedefinieerd. Ze zijn gratis te gebruiken. Mijn persoonlijke favoriet is Bootstrap. [Hier](https://www.w3schools.com/bootstrap5/index.php) kan je meer leren
