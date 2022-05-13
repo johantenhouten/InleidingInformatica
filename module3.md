@@ -4,11 +4,12 @@ In deze module (ongeveer 70 minuten),gaan we ontdekken hoe je een webpagina's ma
 
 In de eerste module is gesproken over informatie. In een computer wordt informatie binair opgeslagen (dus alleen een 0 of een en 1). De ***context*** bepaalt hoe die bits weergegeven worden. Soms zijn de bits een deel van een video, soms is het een deel van een tekstbericht en soms betekenen die bits een stipje op een foto. De context kan worden bepaald door het programma dat je gebruikt of de context wordt bepaald door het bestand waarin je iets opslaat. In deze module maken we een bestand met een bepaalde opmaak. Als we dat bestand opslaan met de extensie .HTML zal Windows het bestand herkennen als een webpagina. 
 
-<hr>
 ### Een webpagina 
 Webpagina's worden opgemaakt in HTML. ***H***yper***T***ext ***M***arkup ***L***anguage. HTML is eigenlijk een gewoon tekst bestand, maar dan met extra aanduiding voor opmaak, afbeeldingen en links. HTML is ook een set van afspraken, als je aan die afspraken houdt kan elke browser dat bestand weergeven.
 
-Webpagina's wordt gebruikt om informatie te geven (mijn winkel, ons adres, fotoalbum). Die informatie is redelijk statisch, wat betekent dat de inhoud niet veel veranderd. Veel belangrijker is de functie van een interactieve webpagina. Denk bij interactief aan een online bestellen, social media, online boekhouden of zelf spelletjes. Met een interactieve pagina kun je geld verdienen. Bijvoorbeeld door het vragen van een abonnement of door het verkopen van advertenties. 
+Webpagina's worden gebruikt om informatie te geven (mijn winkel, de speeltiun, informatie van de gemeente, wanneer komt de bus). Die informatie is redelijk statisch, wat betekent dat de inhoud niet veel veranderd. 
+
+Veel belangrijker is de functie van een interactieve webpagina. Denk bij interactief aan online bestellen (bol.com, zalando, wehkamp), social media, online boekhouden, video kijken, muziek luisteren of gamen. Met een interactieve pagina kun je geld verdienen. Bijvoorbeeld door het vragen van een abonnement of door het verkopen van advertenties. Voor een interactieve pagina heb je dan ook een computer nodig die de verwerking van informatie doet (een webserver). In deze module kijken we alleen naar de voorkant.
 
 
 ### Standaard opmaak van een statische pagina
@@ -52,7 +53,7 @@ Om jouw persoonlijke webpagina compleet (anders?) te maken kun je bijvoorbeeld e
  
 [Hier](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_images_background7) is een voorbeeld hoe je een afbeelding als achtergrond kan toevoegen.
   
-Maak je eigen webpagina. Houd het simpel, voeg als je wilt een afbeelding toe. Let wel op dat je dan een link opneemt naar een afbeelding op internet (als je een afbeelding ziet, rechtermuisknop copy Image Link)
+Maak je eigen webpagina (bijvoorbeeld van deze module). Kies een kop tekst, zorg voor een titel, en voeg wat text toe. Houd het simpel, voeg als je wilt een afbeelding toe. Let wel op dat je dan een link opneemt naar een afbeelding op internet (als je een afbeelding ziet, rechtermuisknop copy Image Link).
 
 
 ### Opdracht 2
