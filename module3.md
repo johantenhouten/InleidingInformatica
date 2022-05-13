@@ -7,7 +7,7 @@ In de eerste module is gesproken over informatie. In een computer wordt informat
 ### Een webpagina 
 Webpagina's worden opgemaakt in HTML. ***H***yper***T***ext ***M***arkup ***L***anguage. HTML is eigenlijk een gewoon tekst bestand, maar dan met extra aanduiding voor opmaak, afbeeldingen en links. HTML is ook een set van afspraken, als je aan die afspraken houdt kan elke browser dat bestand weergeven.
 
-Webpagina's worden gebruikt om informatie te geven (mijn winkel, de speeltiun, informatie van de gemeente, wanneer komt de bus). Die informatie is redelijk statisch, wat betekent dat de inhoud niet veel veranderd. 
+Webpagina's worden gebruikt om informatie te geven (mijn winkel, de speeltiun, informatie van de gemeente, wanneer komt de bus). Die informatie is redelijk statisch, wat betekent dat de inhoud niet veel veranderd. Hier is [een voorbeeld van een statische pagina](https://miradehond.w3spaces.com/index.html)
 
 Veel belangrijker is de functie van een interactieve webpagina. Denk bij interactief aan online bestellen (bol.com, zalando, wehkamp), social media, online boekhouden, video kijken, muziek luisteren of gamen. Met een interactieve pagina kun je geld verdienen. Bijvoorbeeld door het vragen van een abonnement of door het verkopen van advertenties. Voor een interactieve pagina heb je dan ook een computer nodig die de verwerking van informatie doet (een webserver). In deze module kijken we alleen naar de voorkant.
 
@@ -34,7 +34,7 @@ Een standaard webpagina bestaat uit verschillende secties, ook aangeduid met een
 Wie meer wil weten kan terecht bij [W3Schools.com](https://www.w3schools.com/html/default.asp)
   
   
-### Opdracht 1
+### Opdracht 1 (max 10 minuten)
 Start Notepad.exe [(kijk deze Video als je niet weet hoe)](https://www.youtube.com/watch?v=RgL4mq53IAc) in Windows en kopieer de inhoud van standaardopmaak hierboven in een nieuw leeg bestand. Sla het bestand op als opdracht1.html. Tip: bij het opslaan kies voor de optie [Alle bestanden (`*.*`)](https://github.com/johantenhouten/InleidingInformatica/blob/main/media/opslaanals.png?raw=true) of bekijke deze [Video](https://www.youtube.com/watch?v=xqMKHHj6cdQ). Open het document daarna door vanuit de Verkenner er op te kkikken. Als het goed is zie je aan de icon dat het een webpagina is en als het nog beter is zie je een webpagina met tekst.
  
 Om jouw persoonlijke webpagina compleet (anders?) te maken kun je bijvoorbeeld experimenteren met de TAGS `<H1>`, `<H2>`, `<H3>`, `<strong>`. Dat zal de opmaak van een stukje tekst aanpassen.
@@ -50,10 +50,9 @@ Om jouw persoonlijke webpagina compleet (anders?) te maken kun je bijvoorbeeld e
 ```html
 <img src="https://github.com/johantenhouten/InleidingInformatica/blob/main/media/fcxx.png?raw=true" alt="FC-XX">
 ```
- 
-[Hier](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_images_background7) is een voorbeeld hoe je een afbeelding als achtergrond kan toevoegen.
-  
-Maak je eigen webpagina (bijvoorbeeld van deze module). Kies een kop tekst, zorg voor een titel, en voeg wat text toe. Houd het simpel, voeg als je wilt een afbeelding toe. Let wel op dat je dan een link opneemt naar een afbeelding op internet (als je een afbeelding ziet, rechtermuisknop copy Image Link).
+
+Maak een webpagina van deze module. Kies een koptekst, zorg voor een titel, voeg de afbeelding toe en kopieer de eerste paragraaf. Houd het simpel. Voor tips kijk op [w3school.com]()
+
 
 
 ### Opdracht 2
