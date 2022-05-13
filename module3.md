@@ -1,16 +1,19 @@
 ![Webpagina](https://github.com/johantenhouten/InleidingInformatica/blob/main/media/webpagina.png)
 
-In deze module (ongeveer 70 minuten),gaan we ontdekken hoe je een webpagina maakt
+In deze module (ongeveer 70 minuten),gaan we ontdekken hoe je een webpagina's maakt.
 
 In de eerste module is gesproken over informatie. In een computer wordt informatie binair opgeslagen (dus alleen een 0 of een en 1). De ***context*** bepaalt hoe die bits weergegeven worden. Soms zijn de bits een deel van een video, soms is het een deel van een tekstbericht en soms betekenen die bits een stipje op een foto. De context kan worden bepaald door het programma dat je gebruikt of de context wordt bepaald door het bestand waarin je iets opslaat. In deze module maken we een bestand met een bepaalde opmaak. Als we dat bestand opslaan met de extensie .HTML zal Windows het bestand herkennen als een webpagina. 
 
-
+<hr>
 ### Een webpagina 
-Webpagina's worden opgemaakt in HTML. ***H***yper***T***ext ***M***arkup ***L***anguage. HTML is eigenlijk een gewoon tekst bestand, maar dan met extra aanduiding voor opmaak, afbeeldingen en links. HTML is ook een set van afspraken, als je aan die afspraken houdt kan elke browser dat bestand kunnen weergeven.
+Webpagina's worden opgemaakt in HTML. ***H***yper***T***ext ***M***arkup ***L***anguage. HTML is eigenlijk een gewoon tekst bestand, maar dan met extra aanduiding voor opmaak, afbeeldingen en links. HTML is ook een set van afspraken, als je aan die afspraken houdt kan elke browser dat bestand weergeven.
 
+Webpagina's wordt gebruikt om informatie te geven (mijn winkel, ons adres, fotoalbum). Die informatie is redelijk statisch, wat betekent dat de inhoud niet veel veranderd. Veel belangrijker is de functie van een interactieve webpagina. Denk bij interactief aan een online bestellen, social media, online boekhouden of zelf spelletjes. Met een interactieve pagina kun je geld verdienen. Bijvoorbeeld door het vragen van een abonnement of door het verkopen van advertenties. 
+
+
+### Standaard opmaak van een statische pagina
 De aanduidingen worden aangegeven met een woord tussen een < en > teken. Zo betekent `<small>` dat de tekst voor taan kleiner is. Het einde wordt aangegeven met `</small>`, let op het `/` teken. 
 
-### Standaard opmaak
 Een standaard webpagina bestaat uit verschillende secties, ook aangeduid met een `<TAG>`. De woorden tussen `<` en `>` worden TAGs genoemd. In het voorbeeld hieronder zie je duidelijk de sectie html (het is ook een html document) aangegeven met de tag `<HTML>`, maar ook de `<HEAD>` wat zoiets betekent als kop, en een sectie `<BODY>` waar de eigenlijke inhoud in staat. Hoofdletters zijn niet belangrijk voor TAGS. 
   
 ```html
