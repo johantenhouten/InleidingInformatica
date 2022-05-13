@@ -1,4 +1,4 @@
-![Webpagina](https://cmd.camp/wp-content/uploads/2020/04/Screenshot-2018-11-07-at-10.59.37.png)
+![Webpagina](https://github.com/johantenhouten/InleidingInformatica/blob/main/media/webpagina.png)
 
 In deze module (ongeveer 70 minuten),gaan we ontdekken hoe je een webpagina maakt
 
