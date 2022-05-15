@@ -62,7 +62,7 @@ Rechts klik op de webpagina (niet op de foto) en selecteer "view page source"  o
 
 Wanneer je kies voor "Inspect" of "Inspecteren", kun je zelfs de pagina live aanpassen.
 
-### Opdracht 3 
+### Opdracht 3 (max 10 minuten)
 De statische webpagina zoalsin opdracht 1 is saai en komt niet verder dan “mijn pony” of “mijn voetbal club”. Het maken van een website met een beetje goede opmaak kost enorm veel tijd. Een oplossing is het gebruik van een Framework (raamwerk). In een raamwerk zijn stijlen vooraf gedefinieerd. Je hoeft ze er alleen naar te verwijzen. Veel framworks zijn gratis te gebruiken. Mijn persoonlijke favoriet is Bootstrap. [Hier](https://www.w3schools.com/bootstrap5/index.php) kan je meer leren.
 
 Kopieer onderstaande code en sla op als opdracht2.html
@@ -105,8 +105,8 @@ Bekijk de broncode van de webpagina.
 
 Tip: [online zijn er heel veel bootstrap editors die je helpen met het bouwen van een website.](https://bootstrap.build/app)
 
-### Opdracht 4 toevoegen van extra functionaleiteien
-Een webpagina kan ook programma regels bevatten. Dat wordt JavaScript genoemd. In het [voorbeeld](https://www.bootstrapdash.com/demo/majestic-free/template/index.html) zie je dat er in de laaste regels (je weet wel: rechter muis knop bron code).
+### Opdracht 4 max (10 minuten)
+Een webpagina kan ook programma regels of interactie bevatten. Dat wordt JavaScript genoemd. In het [voorbeeld](https://www.bootstrapdash.com/demo/majestic-free/template/index.html) zie je dat er in de laaste regels (je weet wel: rechter muis knop bron code) bestanden aangeroepen worden met de extensie .js.
 
 ```html
 
@@ -135,14 +135,23 @@ Een webpagina kan ook programma regels bevatten. Dat wordt JavaScript genoemd. I
 
 De TAG `<SCRIPT>` geeft aan dat een externe bibliotheek geladen moet worden. In het voorbeeld staan die bibliotheken lokaal op de webserver die ons de pagina geeft. Soms staat er een volledig pad naar een website. Bibliotheken zijn stukjes programma code die extra functionaliteit toevoegen aan de website. Deze kunnen worden gebruikt voor automatisch opmaak of voor het maken van tabellen en die op een aantrekklijke manier laten openen.
 
-Bekijk de volgende [website](http://bl.ocks.org/jhb/raw/5955887). Kun je de code zien?
+Bekijk de volgende [website](http://bl.ocks.org/jhb/raw/5955887). Zie je de bolletjes, die kun je verplaatsen. Kun je met de rechter muisknop de code zien, zie je ook dat dat data daar ook geladen wordt?
 
-### Opdracht 5
+### Opdracht 5 (extra opdracht)
+Met javascript kun je ook tekenen. Er zijn heel veel bibliotheken voor tekenen. 
 
 Probeer [eens deze pagina](https://codeincomplete.com/games/racer/)
 
 Wie kan de snelste tijd halen?
 
-### Opdracht 6
+### Opdracht 6 (voor de echte hackers)
+
+Ga nog eens naar de [honden website](https://miradehond.w3spaces.com/).
+Rechts bovenin staat "LOGIN" 
+
+Lukt het je om in te loggen? Wat is het wachtwoord?
+
+
+
 
 
