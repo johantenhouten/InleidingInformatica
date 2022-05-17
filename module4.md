@@ -1,4 +1,5 @@
-![Webpagina](https://github.com/johantenhouten/InleidingInformatica/blob/main/media/programmerenpng)
+![Webpagina](https://github.com/johantenhouten/InleidingInformatica/blob/main/media/programmeren.png)
+
 
 In deze module (ongeveer 70 minuten),gaan we de basis van programmeren leren.
 
