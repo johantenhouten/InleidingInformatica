@@ -1,4 +1,4 @@
-![Webpagina](https://www.mooc.org/hubfs/applications-of-computer-programming.jpg)
+![Webpagina](https://github.com/johantenhouten/InleidingInformatica/blob/main/media/programmerenpng)
 
 In deze module (ongeveer 70 minuten),gaan we de basis van programmeren leren.
 
