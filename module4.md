@@ -1,4 +1,4 @@
-![Webpagina](https://github.com/johantenhouten/InleidingInformatica/blob/main/media/webpagina.png)
+![Webpagina]https://www.mooc.org/hubfs/applications-of-computer-programming.jpg)
 
 In deze module (ongeveer 70 minuten),gaan we de basis van programmeren leren.
 
@@ -9,8 +9,7 @@ tekstbericht en soms betekenen die bits een stipje op een foto. Soms is het een 
 Een programma is een set opdrachten door de computer die tezamen een bepaalde taak uitvoeren. Die taak kan een spelletje zijn, het berekenen 
 van je cijfergemiddelde of het zenden en ontvangen van berichten met vrienden. 
 
-Een programma wordt gemakt met een programmertaal. Dat is niet voor iedereen weggelgd. Wie dat geen zin in heeft kan kant en klare programmas 
-downloaden van het internet.
+Een programma wordt gemaakt met een programmeertaal, het maken van een programma met een programmeertaal heet programmeren. Programmeren is niet voor iedereen weggelgd. Wie daar geen zin in heeft kan kant en klare programmas downloaden van het internet.
 
 
 
