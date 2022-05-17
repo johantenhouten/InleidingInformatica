@@ -1,4 +1,4 @@
-![Webpagina]https://www.mooc.org/hubfs/applications-of-computer-programming.jpg)
+![Webpagina](https://www.mooc.org/hubfs/applications-of-computer-programming.jpg)
 
 In deze module (ongeveer 70 minuten),gaan we de basis van programmeren leren.
 
