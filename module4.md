@@ -15,3 +15,8 @@ Een programma wordt gemaakt met een programmeertaal, het maken van een programma
 
 ### Opdracht 1
 
+Een computerprogramma voert een bepaalde taak uit. Om die taak uit te voeren heeft het programma informatienodig. Die informatie wordt opgelsaen 
+in een ***variabele***.  De naam zegt het al - die kan veranderen. Een variabele heeft een naam. Met die naam rekent het programma. 
+
+Denk bijvoorbeeld aan een programma dat de airconditioning aanzet.
+
