@@ -123,5 +123,26 @@ else:
  
 ```
 
+## Opdracht 7 - invoer en compleet programma
+In het voorbeeld van opdracht 6 moet je de naam en leeftijd in de programma code aanpassen. Dat kan makkelijker, zonder dat iemand de programma code hoeft te zien. We gebruiken de opdracht ***input()***. Die geeft een tekenreeks terug.
+
+In het voorbeeld hieronder zit een extra regel ***leeftijd = int(leeftijd)***. Deze regel zoirgt ervoor dat leeftijd een gtal is (int betekent INTEGER). Anders kun je niet zien of iemand oud genoeg is. Python kan niet goed appels (cijfer) met peren (tekst) vergelijken.
+
+
+```python
+
+naam = input("Wat is je naam (aflsuiten met Enter)")
+leeftijd = input("Hoe oud ben je (aflsuiten met Enter)")
+leeftijd = int(leeftijd)
+
+print("Hallo " + naam)
+
+if leeftijd > 14:
+    print("Je bent oud genoeg.")
+else:
+    print("Sorry bent nog niet oud genoeg.")
+```
+
+
 
 
