@@ -213,7 +213,8 @@ Open [deze website](https://scratch.mit.edu/projects/editor/) in een nieuwe tab.
 
 Je ziet een nieuwe wesite met links blokjes, in het midden een leeg veld en rechts een kat. Als je wilt kun je de taal op Nederlands zetten door op de werledbol (linksboven) te klikken.
 
-Selecteer uit de blokken (links) de Oranje blokken (gebeurtenissen / events). Sleep het blokje <img
+Selecteer uit de blokken (links) de Oranje blokken (gebeurtenissen / events). Sleep het blokje ![spatie](https://github.com/johantenhouten/InleidingInformatica/blob/main/media/spatie.png) in het lege veld.
+
 
 
 
