@@ -28,26 +28,52 @@ In deze les gaan we met Python en met Scratch aan de gang. Python is een program
 
 ----
 
-### Opdracht 1
+### Programmeren 1 - eerste regels in python
 
 Een computerprogramma voert een bepaalde taak uit. Om die taak uit te voeren heeft het programma informatie nodig. Die informatie wordt opgeslagen  
 in een ***variabele***. Een variabbele is een plekje in het computergeheugen. De naam zegt het al : die kan veranderen. Een variabele heeft een naam. Met die naam rekent het programma. 
 
-Laten we eenvoudg beginnen. Je kan je opgeven om te werken bij Albert-Heijn. Er is een website die vraagt wat je naam is en wat je leeftijd is. 
+Laten we met een eenvoudg voorbeeld beginnen. Je kan je opgeven om te werken bij Albert-Heijn. Er is een website die vraagt wat je naam is en wat je leeftijd is. 
 
-Dat zijn twee variabelen. Laten we die voor het gemaak "naam" en "leeftijd" noemen. Een logische  en verstadige keuze. Als je gaat programmeren zal je minder fouten kan maken.
+Dat zijn twee variabelen. Laten we die voor het gemaak "naam" en "leeftijd" noemen. Een logische  en verstadige keuze, maar je mocht ze ook n en l noemen of x en y. Het gebuik van logische namen (die iets zeggen over de betekenis van de informatie) is verstandig en zorgt voor goede leesbare programma's. 
+  
+## Opdracht 1
+ga naar https://www.online-python.com/
 
-De website van Albert-Heijn moet beslissen of je in aanmerking komt voor een baantje. Dat mag alleen als je 15 jaar of ouder bent.
-
-Er is een stukje programma die 
+En vervang de inhoud door onderstaande regels:
 
 ```python
-if leeftijd < 15 :
-  print ("Sorry je bent niet oud genoeg")
+naam = "Jan de Rooi"
+leeftijd = 15
 ```
-  
-  
 
+En druk op F8 of klik op de groene button met Run... Als het goed is zie je na een paar seconden onderin:
+
+```
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
+```
+
+Bravo, je hebt je eerste programma gemaakt, je hebt twee variabelen gebruikt en die beide een waarde geggeven. De variabele naam is nu een reeks letters. Een letterreeks begint en eindigt met een aanhalingsteken ". De variabele leeftijd heeft de waarde 15 (geen aanhalingstekens) en is een getal.
+
+## Opdracht 2
+Met alleen variabelen kan je nog niet veel. Je wilt er ook iets mee doen. Dat doen we met zogenaamde opdrachten (commands in het engels). Een eenvoudige opdracht is ***print***. Het gebruik van de opdracht is wel aan python regels gebonden. Wat je wilt afdrukken moet je tussen ronde-haakjes zetten. Een print opdracht sluit altijd af met een regel-einde.
+
+Ga naar https://www.online-python.com/ en voer onderstaande code in:
+
+ <a href="https://www.online-python.com/" target="_blank">Online python</a> 
+
+```python
+naam = "Jan de Rooi"
+leeftijd = 15
+
+print("hallo")
+print(naam)
+print(leeftijd)
+```
+
+
+De website van Albert-Heijn moet beslissen of je in aanmerking komt voor een baantje. Dat mag alleen als je 15 jaar of ouder bent.
 
 
 
