@@ -117,9 +117,9 @@ leeftijd = 15
 print("Hallo " + naam)
 
 if leeftijd > 14:
-  print("Je bent oud genoeg")
- else:
-  print("Sorry bent nog niet oud genoeg")
+    print("Je bent oud genoeg")
+else:
+    print("Sorry bent nog niet oud genoeg")
  
 ```
 
