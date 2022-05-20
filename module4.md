@@ -145,6 +145,7 @@ else:
 
 
 ## Opdracht 8 - een spelletje
+![hogerlager](https://github.com/johantenhouten/InleidingInformatica/blob/main/media/hogerlager.png)
 Niet alle commando's in python zijn ingebouwd. Maar die kun je makkelijk laden met ***import***. Probeer eens onderstaande code. 
 
 ```python
