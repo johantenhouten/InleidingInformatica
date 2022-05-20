@@ -38,7 +38,8 @@ Laten we met een eenvoudg voorbeeld beginnen. Je kan je opgeven om te werken bij
 Dat zijn twee variabelen. Laten we die voor het gemaak "naam" en "leeftijd" noemen. Een logische  en verstadige keuze, maar je mocht ze ook n en l noemen of x en y. Het gebuik van logische namen (die iets zeggen over de betekenis van de informatie) is verstandig en zorgt voor goede leesbare programma's. 
   
 ## Opdracht 1
-ga naar https://www.online-python.com/
+Open een extra tab met [online python](https://www.online-python.com/) (rechter muisknop "Openen in een nieuwe tab") en voer onderstaande code in:
+
 
 En vervang de inhoud door onderstaande regels:
 
@@ -59,13 +60,12 @@ Bravo, je hebt je eerste programma gemaakt, je hebt twee variabelen gebruikt en 
 ## Opdracht 2
 Met alleen variabelen kan je nog niet veel. Je wilt er ook iets mee doen. Dat doen we met zogenaamde opdrachten (commands in het engels). Een eenvoudige opdracht is ***print***. Het gebruik van de opdracht is wel aan python regels gebonden. Wat je wilt afdrukken moet je tussen ronde-haakjes zetten. Een print opdracht sluit altijd af met een regel-einde.
 
-Ga naar https://www.online-python.com/ en voer onderstaande code in:
+Als je die niet meer hebt, open een extra tab met [online python](https://www.online-python.com/) (rechter muisknop "Openen in een nieuwe tab").
+Voer onderstaande code in:
 
- <a href="https://www.online-python.com/" target="_blank">Online python</a> 
- <a href="google.com" target="_blank">New Tab</a>
 
 ```python
-naam = "Jan de Rooi"
+naam = "Jan de Rooij"
 leeftijd = 15
 
 print("hallo")
