@@ -62,6 +62,7 @@ Met alleen variabelen kan je nog niet veel. Je wilt er ook iets mee doen. Dat do
 Ga naar https://www.online-python.com/ en voer onderstaande code in:
 
  <a href="https://www.online-python.com/" target="_blank">Online python</a> 
+ <a href="google.com" target="_blank">New Tab</a>
 
 ```python
 naam = "Jan de Rooi"
