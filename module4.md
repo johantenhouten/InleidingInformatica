@@ -153,19 +153,54 @@ getal = randrange(1000)
 
 print(getal)
 ```
-De eerste regel laadt een extra bibliotheek met random (willekeurige getallen). De tweede regel roept een commando randrange (random range) aan en kiest een willelkeurig getal tussen de 0 en 999. Samen zijn zijn 1000 getallen.
-
+De eerste regel laadt een extra bibliotheek  ***random*** (willekeurige getallen). De tweede regel roept een commando randrange (random range) aan. Dit commando komt uit de bibliotheek en kiest een willelkeurig getal tussen de 0 en 999. Samen zijn zijn 1000 getallen.
 
 ```python
 from random import randrange
 getal = randrange(50)
 
-speler = input("Hoe heet jij")
-  
-
+print(getal)
 ```
 
+Met een willkeurig getal kunnen we een spelletje maken. De speler moet het getal raden, de computer zegt hoger, lager tot je het hebt geraden
+
+```python
+from random import randrange
+geheim = randrange(50)
+
+getal = input("Welk getal denk je (0..49) ")
+if getal > geheim:
+  print("Te hoog")
+
+if getal < geheim:
+  print("Te laag")
+  
+if getal == geheim:
+  print("Je hebt het geraden")
+```
+
+Het nadeel van bovenstaand programma is dat je maar 1 keer mag raden. Een ***IF*** opdracht werkt maar 1 keer. Python kent een constrctie die doorgaat tot dat... Dat heet een ***while*** opdracht. 
+
+In het voorbeeld hieronder gaan we door totdat het getal gelijk is aan het geheim. Dat betekent dat we doorgaan zolang het getal ongelijk is aan het geheim. In python gebruik je == als je twee variabelen wil vergelijk en je gebruik != als je het ongekeerde wil testen. Probeer eens onderstaande code
 
 
+```python
+from random import randrange
+geheim = randrange(50)
+getal = -1
+
+while getal  != geheim:
+    getal = input("Welk getal denk je (0..49) ")
+    getal = int(getal)
+    if getal > geheim:
+      print("Te hoog")
+    
+    if getal < geheim:
+      print("Te laag")
+      
+    if getal == geheim:
+      print("Je hebt het geraden")
+
+```
 
 
