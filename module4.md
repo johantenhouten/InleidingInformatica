@@ -217,6 +217,22 @@ Selecteer uit de blokken (links) de Oranje blokken (gebeurtenissen / events). Sl
 
 ![prog1](https://github.com/johantenhouten/InleidingInformatica/blob/main/media/spatie_hallo.png)
 
+Je hebt nu een programma gemaakt die het woord Hallo toont waneer je op de spatiebalk drukt. Kun je tekst aanpassen?
+
+## Opdracht 10 - meer 
+Selecteer links voor de blokken "beweging" en kies het blokje "Neem 10 stappen" en plak dit onder "Zeg Hallo 2 Seconden". Wat gebeurt er nu?
+Kun je de kat meer dingen laten doen? Probeer eens een aantal blokken bij beweging of blokken uiterlijken.
+
+## Opdrcht 11 - een spelletje in Scratch
+
+Open dit [programma](https://scratch.mit.edu/projects/381571855/). Je kunt het spel spelen of je kunt "bekijk van binnen" klikken. 
+Dan zie je hoe het spel is gemaakt, elk element van het spelletje moet apart gemaakt worden. Maar je kunt zoeken naar een spelletje 
+van iemand anders  en aanpassen... Probeer maar.
+
+
+
+
+
 
 
 
