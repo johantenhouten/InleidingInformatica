@@ -144,5 +144,28 @@ else:
 ```
 
 
+## Opdracht 8 - een spelletje
+Niet alle commando's in python zijn ingebouwd. Maar die kun je makkelijk laden met ***import***. Probeer eens onderstaande code. 
+
+```python
+from random import randrange
+getal = randrange(1000)
+
+print(getal)
+```
+De eerste regel laadt een extra bibliotheek met random (willekeurige getallen). De tweede regel roept een commando randrange (random range) aan en kiest een willelkeurig getal tussen de 0 en 999. Samen zijn zijn 1000 getallen.
+
+
+```python
+from random import randrange
+getal = randrange(50)
+
+speler = input("Hoe heet jij")
+  
+
+```
+
+
+
 
 
