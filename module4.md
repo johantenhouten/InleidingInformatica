@@ -229,9 +229,13 @@ Open dit [programma](https://scratch.mit.edu/projects/381571855/). Je kunt het s
 Dan zie je hoe het spel is gemaakt, elk element van het spelletje moet apart gemaakt worden. Maar je kunt zoeken naar een spelletje 
 van iemand anders  en aanpassen... Probeer maar.
 
+## Opdrcht 12 - een app bouwen (alleen voor Android)
 
+Open [APP Inventor]{http://ai2.appinventor.mit.edu/) en log in met een Google account.
 
-
+stap 1: start een nieuw project (als je daar al niet bent)
+stap 2: kopieer deze 2 afbeeldingen naar je PC
+stap 3: upload de afbeldingen naar 
 
 
 
