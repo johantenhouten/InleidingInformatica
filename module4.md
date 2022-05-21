@@ -235,7 +235,18 @@ Download [dit bestand](https://github.com/johantenhouten/InleidingInformatica/ra
 
 Open [APP Inventor]{http://ai2.appinventor.mit.edu/) en log in met een Google account (school account?)
 
-In APP Inventor kies je voor upload priject from your computer. ![Kijk hier he je dat moet doen]()
+In APP Inventor kies je voor upload project from your computer. ![Kijk hier he je dat moet doen](https://github.com/johantenhouten/InleidingInformatica/blob/main/media/import_aia.png)
+
+Als het project geladen is, kin je kijken hoe de app het werkt. Er zijn twee schermen. Een scherm met de zichtbare opbouw van de app (designer) en een scherm (blocks) met de werking van de app. De werking is vergelijkbaar met Scratch.
+
+Druk op Build en Kies voor "Android App (.apk)". Het durt even maar je krijgt als het goed is een QR code te zien. Als je die met je camera op je telefoon of Androud Tablet bekijkt, kan je de APP downloaden en installeren. Let wel op dit is een onbekende app en sommige beveiliging laat dat niet toe.
+
+Open de APP RunBunnyRun op je telefoon. 
+
+Druk op RUN en laat weer los..
+
+
+
 
 
 
