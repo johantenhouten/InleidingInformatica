@@ -245,8 +245,8 @@ Open de APP RunBunnyRun op je telefoon.
 
 Druk op RUN en laat weer los..
 
-
-
+Onderstaand is de link naar het project van RunBunnyRun
+[link](https://gallery.appinventor.mit.edu/?galleryid=5a10d2a2-43a4-4174-b68e-439063aa5451)
 
 
 
