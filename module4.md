@@ -231,11 +231,14 @@ van iemand anders  en aanpassen... Probeer maar.
 
 ## Opdrcht 12 - een app bouwen (alleen voor Android)
 
-Open [APP Inventor]{http://ai2.appinventor.mit.edu/) en log in met een Google account.
+Download [dit bestand](https://github.com/johantenhouten/InleidingInformatica/raw/main/media/RunBunnyBunny.aia) naar je computer.
 
-stap 1: start een nieuw project (als je daar al niet bent)
-stap 2: kopieer deze 2 afbeeldingen naar je PC
-stap 3: upload de afbeldingen naar 
+Open [APP Inventor]{http://ai2.appinventor.mit.edu/) en log in met een Google account (school account?)
+
+In APP Inventor kies je voor upload priject from your computer. ![Kijk hier he je dat moet doen]()
+
+
+
 
 
 
